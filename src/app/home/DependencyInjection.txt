@@ -1,0 +1,8 @@
+ANGULAR utilizza un concetto chiamato iniezione di dipendenza per consentire ai componenti e ad altre parti del codice 
+di chiedere al framework elementi necessari per funzionare, noti come dipendenze 
+A PRIMA VISTA QUESTO POTREBBE SEMBRTARE UN PASSAGGIO IN PIù MA CI OFFRE ALCUNI GRANDI VANTAGGI
+CI CONSENTE ID AVERE UN CODICE PIù TESTABILE 
+POSSIAMO SIMULARE DATABASE 
+IL CODICE SARà RIUTILIZABILE 
+E INOLTRE SARA PIù MANUTENDIBILE 
+
