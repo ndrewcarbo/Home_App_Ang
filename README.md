@@ -1,3 +1,6 @@
+Ciao per vedere questo progetto devi 
+seguire le istruzioni sotto
+
 # Angular Homes App
 - Install Angular if you don't have it installed
 
@@ -18,3 +21,10 @@
 - Run the application 
 
   `ng serve`
+
+
+se non vedi le immagini collegati al db
+json-server --watch db.json
+
+e poi successivamente ng serve
+
